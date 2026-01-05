@@ -1,0 +1,22 @@
+# --- Python ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --- Logs & temp files ---
+*.log
+*.tmp
+*.out
+
+# --- Environment variables ---
+.env
+.env.*
+
+# --- VS Code ---
+.vscode/
+
+# --- macOS ---
+.DS_Store
