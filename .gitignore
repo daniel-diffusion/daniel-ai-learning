@@ -10,6 +10,7 @@ __pycache__/
 *.log
 *.tmp
 *.out
+logs/
 
 # --- Environment variables ---
 .env
